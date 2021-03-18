@@ -22,7 +22,8 @@ if user enters "vm" they wil be able to see all their task number and the progra
 * -1 to exit 
 what ever the user chooses the changes will be saved to the necessary text file and if user enters "-1" it will take them back to the main menu
 
-If the user enters "gr" it will generate a report in two text file task_overview.txt and user_overview.txt.  
+If the user enters "gr" it will generate a report in two text file task_overview.txt and user_overview.txt.
+
 in task_overview.txt it will show :  
 *  The total number of tasks that have been generated and tracked using the ​task_manager.py​.   
 *  The total number of completed tasks.   
@@ -30,6 +31,8 @@ in task_overview.txt it will show :
 *  The total number of tasks that haven’t been completed and that are overdue.    
 *  The percentage of tasks that are incomplete.   
 *  The percentage of tasks that are overdue.
+
+
 In user_overview.txt it will show :  
 *  The total number of users registered with ​task_manager.py​.   
 *  The total number of tasks that have been generated and tracked using the ​task_manager.py​.   
