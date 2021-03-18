@@ -1,0 +1,6 @@
+The total number of tasks is: 5
+The number of completed tasks are: 1
+The number of tasks not completed are: 4
+The persentage of incomplete tasks are: 80.0%
+The amount of overdue: 4
+The persentage of overdue task are: 80.0%

@@ -1,0 +1,15 @@
+
+Total amount of users: 2
+Total amount of generated task: 5
+
+User: admin
+Persentage of tasks assigned to user: 60.0
+Persentage of assigned tasks completed: 0.0
+Persentage of assigned tasks incompleted: 100.0
+Persentage of incompleted overdue tasks: 66.66666666666666
+
+User: quinton
+Persentage of tasks assigned to user: 40.0
+Persentage of assigned tasks completed: 50.0
+Persentage of assigned tasks incompleted: 50.0
+Persentage of incompleted overdue tasks: 50.0
